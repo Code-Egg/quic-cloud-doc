@@ -1,8 +1,8 @@
 ---
 layout: default
-title: DNS
-nav_order: 2
-parent: dns
+title: Configuring DNS for a Subdomain
+nav_order: 7
+parent: DNS
 permalink: /dns/cname-subdomain
 ---
 

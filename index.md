@@ -23,18 +23,14 @@ Pairing WordPress and QUIC.cloud is required, but creating a QUIC.cloud account 
 
 You only need to create a QUIC.cloud account if you plan to use the CDN. Otherwise, an account is optional.
 
-There are benefits to a QUIC.cloud account, including a handy dashboard where you can:
-
-*   See detailed usage, statistics & even errors for all services
-*   Have the ability to increase the quota limits with credits
-*   Set up & manage all QUIC.cloud CDN options
-*   Easily open a QUIC.cloud support ticket
-*   Manage multiple domains in one place
-
-For detailed instructions on _pairing_ your WordPress site with QUIC.cloud, please see [Pairing WordPress and QUIC.cloud](/quic-cloud-doc/pairing).
+Follow [Pairing WordPress and QUIC.cloud](/quic-cloud-doc/pairing) to pair your WordPress site with QUIC.cloud.
 
 Once you have paired WordPress with QUIC.cloud, you can begin using [Image Optimization](https://quic.cloud/quic-cloud-services-and-features/image-optimization-service), [Page Optimization](https://quic.cloud/quic-cloud-services-and-features/critical-css-service) and other cloud services immediately.
 
+To use CDN Service, there're more steps that you need to follow
+1. [Creating a QUIC.cloud account](/quic-cloud-doc/account)
+2. [Setup DNS](/quic-cloud-doc/dns)
+3. [Use CDN](/quic-cloud-doc/cdn)
 
 ## About QUIC Cloud
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Switching from a Root Domain to a www Domain
-nav_order: 2
-parent: dns
+nav_order: 9
+parent: DNS
 permalink: /dns/root-www
 ---
 

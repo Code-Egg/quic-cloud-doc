@@ -1,9 +1,9 @@
 ---
 layout: default
 title: CDN
-nav_order: 2
+nav_order: 6
 has_children: true
-permalink: /quic-cloud-doc/cdn
+permalink: /cdn
 ---
 
 # 

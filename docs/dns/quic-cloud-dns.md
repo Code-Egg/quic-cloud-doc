@@ -1,8 +1,8 @@
 ---
 layout: default
 title: QUIC.DNS
-nav_order: 2
-parent: dns
+nav_order: 6
+parent: DNS
 permalink: /dns/quiccloud-dns
 ---
 

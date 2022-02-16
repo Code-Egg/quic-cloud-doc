@@ -1,8 +1,8 @@
 ---
 layout: default
-title: DNS
-nav_order: 2
-parent: dns
+title: Configuring DNS for a Root Domain
+nav_order: 8
+parent: DNS
 permalink: /dns/cname-rootdomain
 ---
 
