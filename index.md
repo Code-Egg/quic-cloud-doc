@@ -26,7 +26,7 @@ To pair your WordPress site with QUIC.cloud in order to use any online services
 
 Once you have paired WordPress with QUIC.cloud, you can begin using [Image Optimization](https://quic.cloud/quic-cloud-services-and-features/image-optimization-service), [Page Optimization](https://quic.cloud/quic-cloud-services-and-features/critical-css-service) and other cloud services immediately.
 
-To use CDN Service, there're more steps that you need to follow
+To use CDN Service, there're more steps that you need to follow,
 1. [Creating a QUIC.cloud account](/quic-cloud-doc/account)
 2. [Setup DNS](/quic-cloud-doc/dns)
 3. [Setup CDN](/quic-cloud-doc/cdn)

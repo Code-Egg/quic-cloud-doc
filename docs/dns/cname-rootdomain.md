@@ -89,10 +89,6 @@ If it is not accessible, review your DNS configurations and run through the step
 
 Once you have verified that your site is still accessible, you are finished making changes to the DNS. You can set the TTL for any new records to something more reasonable. Use the value of the original `A` record, if you're not sure.
 
-### OPTIONAL: Configure a Subdomain
-
-If you want to use a subdomain (e.g. `www.example.com`) in addition to your root domain, please follow our [subdomain directions](https://quic.cloud/docs/cdn/dns/setting-up-your-dns-with-your-subdomain/).
-
 ## Next Step
 {: .no_toc} 
 - [Enable the CDN](/quic-cloud-doc/cdn)
