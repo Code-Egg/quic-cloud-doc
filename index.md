@@ -30,7 +30,7 @@ Once you have paired WordPress with QUIC.cloud, you can begin using [Image Optim
 To use CDN Service, there're more steps that you need to follow
 1. [Creating a QUIC.cloud account](/quic-cloud-doc/account)
 2. [Setup DNS](/quic-cloud-doc/dns)
-3. [Use CDN](/quic-cloud-doc/cdn)
+3. [Setup CDN](/quic-cloud-doc/cdn)
 
 ## About QUIC Cloud
 

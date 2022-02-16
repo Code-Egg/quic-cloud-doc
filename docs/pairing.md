@@ -2,7 +2,7 @@
 layout: default
 title: Paring
 nav_order: 3
-permalink: /paring
+permalink: /pairing
 ---
 
 ---
@@ -19,8 +19,6 @@ permalink: /paring
 
 ## Pair WordPress and QUIC.cloud
 
-
-
 In order to use QUIC.cloud, you must pair it with the LiteSpeed Cache for Wordpress plugin in your WordPress admin. Here's how.
 
 Initiate in WordPress
@@ -34,21 +32,8 @@ Sign into the WordPress dashboard for the domain you’d like to use with QUIC.c
 
 You will see a notification at the top of the page, indicating that the application was successful. Wait a few minutes and then refresh the page. The **Domain Key** setting will have been automatically updated with the new key.
 
-The next step is to create a QUIC.cloud account. However, you only need to do so if you plan to use the CDN. An account is optional, if you only plan to use the QUIC.cloud WordPress services.
-
-There are benefits to a QUIC.cloud account, though, including a handy dashboard where you can:
-
-*   See detailed usage, statistics & even errors for all services
-*   Have the ability to increase the quota limits with credits
-*   Set up & manage all QUIC.cloud CDN options
-*   Easily open a QUIC.cloud support ticket
-*   Manage multiple domains in one place
-
-To register your QUIC.cloud account, click the **Link to QUIC.cloud** button.
-
-**NOTE**: if you choose not to set up a QUIC.cloud account, then you are finished and you may begin using Image Optimization, Page Optimization, and other QUIC.cloud non-CDN services immediately.
+If you choose not to set up a QUIC.cloud account, then you are finished and you may begin using Image Optimization, Page Optimization, and other QUIC.cloud non-CDN services immediately.
 
 ## Next Step
 {: .no_toc} 
-
-- [QUIC.cloud account](/account)
+- [QUIC.cloud account](/quic-cloud-doc/account)
