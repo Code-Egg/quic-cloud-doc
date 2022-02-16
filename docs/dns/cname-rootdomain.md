@@ -22,13 +22,12 @@ These instructions take you through the general steps required to set up your DN
 
 These instructions are for setting up your existing DNS records at an external DNS provider. If you are switching to QUIC.cloud DNS, please see [Using QUIC.cloud DNS](https://quic.cloud/docs/cdn/dns/setting-up-your-dns-with-quic-cloud/).
 
-Keep a Reference
-----------------
+## Keep a Reference
+
 
 Log into your DNS provider. The first thing you should do, before you change anything, is to take a screenshot of your configuration. You want to have a reference in case you want to revert back.
 
-Provider-Specific Instructions
-------------------------------
+## Provider-Specific Instructions
 
 Here are some of the provider instructions we know about. If you don't see your provider here, follow the **General Instructions** below.
 
@@ -48,8 +47,7 @@ While logged into your DNS provider, you will need to perform these basic steps:
 
 If you need any more details about each of these steps, they are explained further below.
 
-General Instructions
---------------------
+## General Instructions
 
 ### Adjust TTL
 

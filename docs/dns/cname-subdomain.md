@@ -22,13 +22,11 @@ These instructions take you through the general steps required to set up your DN
 
 These instructions are for setting up your existing DNS records at an external DNS provider. If you are switching to QUIC.cloud DNS, please see [Using QUIC.cloud DNS](https://quic.cloud/docs/cdn/dns/setting-up-your-dns-with-quic-cloud/).
 
-Keep a Reference
-----------------
+## Keep a Reference
 
 Log into your DNS provider. The first thing you should do, before you change anything , is to take a screenshot of your configuration. You want to have a reference in case you encounter an issue and you want to revert back.
 
-Provider-Specific Instructions
-------------------------------
+## Provider-Specific Instructions
 
 Here are some of the provider instructions we know about. If you don't see your provider here, follow the **General Instructions** below.
 
@@ -50,8 +48,8 @@ While logged into your DNS provider, you will need to perform these basic steps:
 
 The process is described in more detail below.
 
-General Instructions
---------------------
+## General Instructions
+
 
 ### Adjust TTL
 
@@ -84,6 +82,7 @@ If it is not accessible, review your DNS configurations and run through the step
 
 Once you have verified that your site is still accessible, you are finished making changes to the DNS. You can set the TTL for your `CNAME` record to something more reasonable. Use the value of the original `A` record, if you're not sure.
 
-### Next Step
 
-Once your DNS is set up, you're ready to [enable the CDN](https://quic.cloud/docs/cdn/enable-the-cdn/).
+## Next Step
+{: .no_toc} 
+- [Enable the CDN](/quic-cloud-doc/cdn)
