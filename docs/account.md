@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Paring
+title: Account
 nav_order: 5
-permalink: /account
+permalink: /quic-cloud-doc/account
 ---
 
 ---

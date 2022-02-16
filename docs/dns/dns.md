@@ -3,7 +3,7 @@ layout: default
 title: DNS
 nav_order: 2
 has_children: true
-permalink: /dns
+permalink: /quic-cloud-doc/dns
 ---
 
 In order to serve your site globally, QUIC.cloud CDN requires you to make changes to your DNS configuration. This can be done in one of two ways:

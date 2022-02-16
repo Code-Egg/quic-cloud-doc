@@ -3,7 +3,7 @@ layout: default
 title: QUIC.DNS
 nav_order: 2
 parent: dns
-permalink: /dns/quiccloud-dns
+permalink: /quic-cloud-doc/dns/quiccloud-dns
 ---
 
 {: .no_toc} 

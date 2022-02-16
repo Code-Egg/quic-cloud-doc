@@ -3,7 +3,7 @@ layout: default
 title: DNS
 nav_order: 2
 parent: dns
-permalink: /dns/cname-subdomain
+permalink: /quic-cloud-doc/dns/cname-subdomain
 ---
 
 {: .no_toc} 

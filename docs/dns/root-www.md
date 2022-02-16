@@ -3,7 +3,7 @@ layout: default
 title: Switching from a Root Domain to a www Domain
 nav_order: 2
 parent: dns
-permalink: /dns/root-www
+permalink: /quic-cloud-doc/dns/root-www
 ---
 
 So, you've decided to switch from a root domain to a subdomain (e.g. from `example.com` to `www.example.com`) for your WordPress site.
