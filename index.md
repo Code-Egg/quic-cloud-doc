@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "QUIC.cloud is a WordPress Acceleration Platform, the first and only complete WordPress optimization solution."
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/Code-Egg/quic-cloud-doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# QUIC.cloud
+{: .fs-9 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+QUIC.cloud is a WordPress Acceleration Platform, the first and only complete WordPress optimization solution.
+{: .fs-6 .fw-300 }
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Getting Started
+- [Installation](/installation/repo) 
+- [Configuration](/configuration)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Supported Content management system
 
-1. Numbered
-2. List
+- [WordPress](https://wordpress.com/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## About QUIC Cloud
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+QUIC Cloud is &copy; 2021-{{ "now" | date: "%Y" }} by [QUIC.cloud](https://quic.cloud/)
+Learn more at [QUIC.cloud](https://quic.cloud/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Code-Egg/quic-cloud-doc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contributors
+Many thanks to our QUIC Cloud Documentation contributors!
 
-### Support or Contact
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
