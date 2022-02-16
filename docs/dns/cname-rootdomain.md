@@ -95,6 +95,6 @@ Once you have verified that your site is still accessible, you are finished maki
 
 If you want to use a subdomain (e.g. `www.example.com`) in addition to your root domain, please follow our [subdomain directions](https://quic.cloud/docs/cdn/dns/setting-up-your-dns-with-your-subdomain/).
 
-### Next Step
-
-Once your DNS is set up, you're ready to [enable the CDN](https://quic.cloud/docs/cdn/enable-the-cdn/).
+## Next Step
+{: .no_toc} 
+- [QUIC.cloud CDN](/quic-cloud-doc/cdn)

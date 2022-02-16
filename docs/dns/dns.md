@@ -28,3 +28,6 @@ If you have a root domain, and you really want to use the CNAME option, you have
 1.  Change your DNS provider to a provider that offers CNAME flattening or `ANAME`/`ALIAS` records, so you can continue to use your root domain. Please see [Configuring DNS for a Root Domain](/quic-cloud-doc/cname-rootdomain) to proceed.
 2.  Change your WordPress site so that it uses a `www` domain instead of the root domain. Please see [Switching from a Root Domain to a www Domain](/quic-cloud-doc/root-www) to proceed.
 
+## Next Step
+{: .no_toc} 
+- [Enable the CDN](/quic-cloud-doc/cdn)

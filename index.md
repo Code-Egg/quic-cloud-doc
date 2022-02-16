@@ -21,9 +21,8 @@ QUIC.cloud is a WordPress Acceleration Platform, the first and only complete Wor
 ## Getting Started
 Pairing WordPress and QUIC.cloud is required, but creating a QUIC.cloud account is not.
 
-You only need to create a QUIC.cloud account if you plan to use the CDN. Otherwise, an account is optional.
-
-Follow [Pairing WordPress and QUIC.cloud](/quic-cloud-doc/pairing) to pair your WordPress site with QUIC.cloud.
+To pair your WordPress site with QUIC.cloud in order to use any online services 
+- [Pairing WordPress and QUIC.cloud](/quic-cloud-doc/pairing) 
 
 Once you have paired WordPress with QUIC.cloud, you can begin using [Image Optimization](https://quic.cloud/quic-cloud-services-and-features/image-optimization-service), [Page Optimization](https://quic.cloud/quic-cloud-services-and-features/critical-css-service) and other cloud services immediately.
 
