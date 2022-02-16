@@ -2,7 +2,7 @@
 layout: default
 title: Account
 nav_order: 5
-permalink: /quic-cloud-doc/account
+permalink: /account
 ---
 
 ---

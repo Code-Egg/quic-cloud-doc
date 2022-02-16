@@ -2,7 +2,7 @@
 layout: default
 title: Paring
 nav_order: 4
-permalink: /quic-cloud-doc/paring
+permalink: /paring
 ---
 
 ---
