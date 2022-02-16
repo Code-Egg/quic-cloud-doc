@@ -95,4 +95,4 @@ If you want to use a subdomain (e.g. `www.example.com`) in addition to your root
 
 ## Next Step
 {: .no_toc} 
-- [QUIC.cloud CDN](/quic-cloud-doc/cdn)
+- [Enable the CDN](/quic-cloud-doc/cdn)

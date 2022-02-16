@@ -36,4 +36,4 @@ If you choose not to set up a QUIC.cloud account, then you are finished and you 
 
 ## Next Step
 {: .no_toc} 
-- [QUIC.cloud account](/quic-cloud-doc/account)
+- [Link to QUIC.cloud account](/quic-cloud-doc/account)
