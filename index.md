@@ -14,15 +14,26 @@ QUIC.cloud is a WordPress Acceleration Platform, the first and only complete Wor
 
 ---
 
+## Prerequisites
+- A [WordPress](https://wordpress.com/) site, set up and in working order
+- A [LiteSpeed Cache for WordPress plugin](https://litespeedtech.com/products/cache-plugins/wordpress-acceleration)
 
 ## Getting Started
-- [Installation](/installation/repo) 
-- [Configuration](/configuration)
+Pairing WordPress and QUIC.cloud is required, but creating a QUIC.cloud account is not. (Pairing and account creation are two different things.)
 
+You only need to create a QUIC.cloud account if you plan to use the CDN. Otherwise, an account is optional.
 
-## Supported Content management system
+There are benefits to a QUIC.cloud account, including a handy dashboard where you can:
 
-- [WordPress](https://wordpress.com/)
+*   See detailed usage, statistics & even errors for all services
+*   Have the ability to increase the quota limits with credits
+*   Set up & manage all QUIC.cloud CDN options
+*   Easily open a QUIC.cloud support ticket
+*   Manage multiple domains in one place
+
+For detailed instructions on _pairing_ your WordPress site with QUIC.cloud, please see [Pairing WordPress and QUIC.cloud](/pairing).
+
+Once you have paired WordPress with QUIC.cloud, you can begin using [Image Optimization](https://quic.cloud/quic-cloud-services-and-features/image-optimization-service), [Page Optimization](https://quic.cloud/quic-cloud-services-and-features/critical-css-service) and other cloud services immediately.
 
 
 ## About QUIC Cloud
