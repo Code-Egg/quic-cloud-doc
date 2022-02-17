@@ -28,8 +28,6 @@ Initiate in WordPress
 
 Sign into the WordPress dashboard for the domain you’d like to use with QUIC.cloud. Navigate to **LiteSpeed Cache > General**, and click the **Request Domain Key** button, on the right side of the **Domain Key** box.
 
-![Approved Domain Key](https://quic.cloud/wp-content/uploads/2020/08/Approved-Domain-Key.png)
-
 You will see a notification at the top of the page, indicating that the application was successful. Wait a few minutes and then refresh the page. The **Domain Key** setting will have been automatically updated with the new key.
 
 If you choose not to set up a QUIC.cloud account, then you are finished and you may begin using Image Optimization, Page Optimization, and other QUIC.cloud non-CDN services immediately.
