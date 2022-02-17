@@ -40,24 +40,7 @@ Here are some of the provider instructions we know about. If you don't see your 
 *   [Name.com](https://www.name.com/support/articles/115004895548-Adding-a-CNAME-Record)
 *   [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain/)
 
-While logged into your DNS provider, you will need to perform these basic steps:
-
-1.  Adjust the TTL on your subdomain's `A` record to be very short while you work on it
-2.  Replace the `A` record with a `CNAME` record that points to the QUIC.cloud domain
-3.  Adjust the TTL on the `CNAME` record back to what the original `A` record was
-
-The process is described in more detail below.
-
 ## General Instructions
-
-
-### Adjust TTL
-
-If there is an `A` record for your subdomain, adjust the TTL value to the smallest time period possible. This is so that you can make changes and not have to wait a long time for them to take effect.
-
-Once the _previous_ TTL has passed, the new TTL will take effect.
-
-For example, the previous value was `60` minutes and you change it to `2` minutes. If it is 3:00pm when you change the value to `2`, you must wait 60 minutes before that value is effective.
 
 ### Create a CNAME Record
 
@@ -77,10 +60,6 @@ That `CNAME` record you added earlier now must be used to connect to QUIC.cloud.
 Visit your site again and verify that you can still access everything properly.
 
 If it is not accessible, review your DNS configurations and run through the steps again. Check if your TTL for the old configuration has expired. Make sure that the correct amount of time has elapsed.
-
-### Adjust TTL
-
-Once you have verified that your site is still accessible, you are finished making changes to the DNS. You can set the TTL for your `CNAME` record to something more reasonable. Use the value of the original `A` record, if you're not sure.
 
 
 ## Next Step
